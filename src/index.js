@@ -3,4 +3,6 @@
 
 //import './解构赋值.js'
 //import './数组的扩展.js'
-import './扩展运算符与rest参数.js'
+// import './扩展运算符与rest参数.js'
+// import "./对象的扩展.js";
+import "./深拷贝与浅拷贝.js";
