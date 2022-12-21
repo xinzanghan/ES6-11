@@ -9,4 +9,6 @@
 // import "./类-静态属性方法与实例属性方法.js";
 // import "./Es5-类的继承";
 // import "./Es6-类的继承.js";
-import "./Symbol-新增原始数据类型.js";
+// import "./Symbol-新增原始数据类型.js";
+// import "./Set-新数据结构.js";
+import "./Map-新数据结构.js";
