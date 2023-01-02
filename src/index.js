@@ -11,4 +11,5 @@
 // import "./Es6-类的继承.js";
 // import "./Symbol-新增原始数据类型.js";
 // import "./Set-新数据结构.js";
-import "./Map-新数据结构.js";
+// import "./Map-新数据结构.js";
+import "./2-18正则表达式扩展.js";
