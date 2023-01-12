@@ -69,18 +69,23 @@
 //   school: "imooc",
 // };
 
+//此方法不会返回Symbol()类型的键名
 // for (let key in obj) {
 //   console.log(key, obj[key]);
 // }
 
+// 此方法不会返回Symbol()类型的键名
 // Object.keys(obj).forEach((key) => {
 //   console.log(key, obj[key]);
 // });
 
+// 此方法不会返回Symbol()类型的键名
 // Object.getOwnPropertyNames(obj).forEach((key) => {
 //   console.log(key, obj[key]);
 // });
 
+//
+//
 // Reflect.ownKeys(obj).forEach((key) => {
 //   console.log(key, obj[key]);
 // });

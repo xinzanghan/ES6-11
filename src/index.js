@@ -1,6 +1,7 @@
 // let sum = (x, y) => x + y
 // console.log(sum(4, 5))
 
+// import "./数组遍历方法";
 //import './解构赋值.js'
 //import './数组的扩展.js'
 // import './扩展运算符与rest参数.js'
@@ -12,4 +13,6 @@
 // import "./Symbol-新增原始数据类型.js";
 // import "./Set-新数据结构.js";
 // import "./Map-新数据结构.js";
-import "./2-18正则表达式扩展.js";
+// import "./2-18正则表达式扩展.js";
+// import "./2-19数值的扩展(Number，Math).js";
+import "./2-20Proxy代理、Proxy拦截方法";
