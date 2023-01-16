@@ -16,4 +16,5 @@
 // import "./2-18正则表达式扩展.js";
 // import "./2-19数值的扩展(Number，Math).js";
 // import "./2-20Proxy代理、Proxy拦截方法";
-import "./2-20-2Proxy代理下、apply.js";
+// import "./2-20-2Proxy代理下、apply.js";
+import "./2-22异步操作和Ajax原理";
