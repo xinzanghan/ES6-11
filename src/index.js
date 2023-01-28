@@ -20,5 +20,5 @@
 // import "./2-22异步操作和Ajax原理";
 // import "./2-23异步解决Promise.js";
 // import "./2-24Promise的静态方法.js";
-import "./2-25异步编程Generator";
-
+// import "./2-25异步编程Generator";
+import "./2-26迭代器Iterator";
