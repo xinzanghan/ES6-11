@@ -22,4 +22,6 @@
 // import "./2-24Promise的静态方法.js";
 // import "./2-25异步编程Generator";
 // import "./2-26迭代器Iterator";
-import "./2-27在Es6中如何导入导出模块Module";
+// import "./2-27在Es6中如何导入导出模块Module";
+// import "./3-1数组扩展Es7Includes";
+import "./3-2幂运算符Math.pow()";
