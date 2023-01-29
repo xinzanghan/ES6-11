@@ -25,4 +25,6 @@
 // import "./2-27在Es6中如何导入导出模块Module";
 // import "./3-1数组扩展Es7Includes";
 // import "./3-2幂运算符Math.pow()";
-import "./4-1Async-Await异步编程";
+// import "./4-1Async-Await异步编程";
+// import "./4-2对象.values和.entries";
+import "./4-3对象属性描述符";
