@@ -28,4 +28,5 @@
 // import "./4-1Async-Await异步编程";
 // import "./4-2对象.values和.entries";
 // import "./4-3对象属性描述符";
-import "./4-4字符串扩展padStart、padEnd";
+// import "./4-4字符串扩展padStart、padEnd";
+import "./5-1异步迭代for-await-of";
