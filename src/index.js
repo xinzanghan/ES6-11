@@ -29,4 +29,7 @@
 // import "./4-2对象.values和.entries";
 // import "./4-3对象属性描述符";
 // import "./4-4字符串扩展padStart、padEnd";
-import "./5-1异步迭代for-await-of";
+// import "./5-1异步迭代for-await-of";
+// import "./5-2正则表达式扩展dotall、具名组匹配、后行断言";
+// import "./5-3对象的扩展Rest和Spread";
+import "./5-4Promise扩展.finally";
